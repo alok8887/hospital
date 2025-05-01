@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basics of Hospitality</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        section {
+            background-color: white;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        ul {
+            list-style-type: none;
+        }
+        ul li {
+            margin: 10px 0;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Understanding the Basics of Hospitality</h1>
+</header>
+
+<div class="container">
+    <section>
+        <h2>Introduction to Hospitality</h2>
+        <p>Hospitality is the act of providing a warm and welcoming environment to guests. It’s a fundamental aspect of service industries like hotels, restaurants, and events. Good hospitality is about making guests feel comfortable, valued, and respected.</p>
+    </section>
+
+    <section>
+        <h2>Importance of Hospitality</h2>
+        <p>Hospitality plays a key role in the success of service-based businesses. Offering excellent hospitality can create long-lasting relationships with guests, build trust, and encourage repeat business. It also contributes to positive reviews and word-of-mouth marketing, both of which are essential for business growth.</p>
+    </section>
+
+    <section>
+        <h2>Key Principles of Hospitality</h2>
+        <ul>
+            <li><strong>Warm Welcome:</strong> Greet guests with a smile and make them feel at home from the moment they arrive.</li>
+            <li><strong>Personalized Service:</strong> Tailor your service to the needs and preferences of each guest.</li>
+            <li><strong>Attention to Detail:</strong> Pay attention to the small things that can make a big difference in a guest’s experience.</li>
+            <li><strong>Timeliness:</strong> Ensure that guests receive prompt and efficient service.</li>
+            <li><strong>Respect:</strong> Treat all guests with respect and make them feel important.</li>
+        </ul>
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2025 Hospitality 101. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
